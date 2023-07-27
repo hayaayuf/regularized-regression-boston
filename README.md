@@ -5,19 +5,19 @@ Inn today’s world, data sets being analyzed typically have a large amount of f
 
 ### Dataset
 The data is about predicting housing price (medv) in Boston city, features:
-○ Criminal rate (crim)
-○ Residential land zoned proportion (zn)
-○ Non-retail business acres proportion (indus)
-○ Is bounds with river (chas)
-○ Nitrogen oxides concentration (nox)
-○ Number rooms average (rm)
-○ Owner age proportion (age)
-○ Weighted distance to cities (dis)
-○ Accessibility index (rad)
-○ Tax rate (tax)
-○ Pupil-teacher ratio (ptratio)
-○ Black proportion (black)
-○ Percent lower status (lstat)
+- Criminal rate (crim)
+- Residential land zoned proportion (zn)
+- Non-retail business acres proportion (indus)
+- Is bounds with river (chas)
+- Nitrogen oxides concentration (nox)
+- Number rooms average (rm)
+- Owner age proportion (age)
+- Weighted distance to cities (dis)
+- Accessibility index (rad)
+- Tax rate (tax)
+- Pupil-teacher ratio (ptratio)
+- Black proportion (black)
+- Percent lower status (lstat)
 
 ### Output
 The output of the model is predicted boston housing prices.
